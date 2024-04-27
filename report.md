@@ -29,10 +29,10 @@ To learn more about this dataset, conduct a more thorough data analysis and furt
 |add_features|default_vals|default_vals|default_vals|0.47022|
 |hpo|num_leaves: lower=26, upper=66|dropout_prob: 0.1, 1.0|num_boost_round: 100|0.46014|
 
-
+![hyper.PNG](image.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
 
-![plot1.PNG]()
+![plot1.PNG](line.png)
