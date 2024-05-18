@@ -5,6 +5,7 @@ This repository contains a Jupyter Notebook (`.ipynb` file) that demonstrates ho
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [links](#links)
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Usage](#usage)
@@ -20,6 +21,10 @@ Before you begin, ensure you have the following:
 - An AWS account with access to SageMaker Studio.
 - SageMaker Studio set up in your AWS environment.
 - Basic knowledge of Jupyter Notebooks and Python.
+
+## Links
+[Open in Google Colab](https://colab.research.google.com/github/jahnvisahni31/predict_bike_sharing_with_autogluon/blob/main/predict_bike_sharing_with_autogluon.ipynb)
+
 
 ## Installation
 
