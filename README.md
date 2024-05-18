@@ -31,7 +31,7 @@ Before you begin, ensure you have the following:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/predict_bike_sharing_with_autogluon.git
+    git clone https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon.git
     cd predict_bike_sharing_with_autogluon
     ```
 
